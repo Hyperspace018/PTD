@@ -1,4 +1,4 @@
-# TDriver
+# PTD
 
 The simple Touchpad driver for Linux Operating System
 
